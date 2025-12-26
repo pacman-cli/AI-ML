@@ -1,0 +1,5 @@
+full_name,age,email,join_date
+Alice,25.0,alice@email.com,2023-01-01
+Bob,30.0,bob@email.com,2023-01-02
+Charlie,30.0,charlie@email,2023-01-03
+Dave,100.0,dave@email.com,2023-01-04
